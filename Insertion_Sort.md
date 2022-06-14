@@ -15,7 +15,7 @@
 New list : [2,27,16,22,18,6]
             #                    ---> # is locked.
 ### Step 2 -> Smallest number  is 6. So, change 6 to 27 places.
-New list : [2,6,16,22,18,27]
+New list : [2,6,16,22,18,27] \n
             # #
 ### Step 3 -> Smallest number  is 16. So, 16 is already where it should be.
 New list : [2,6,16,22,18,27]
