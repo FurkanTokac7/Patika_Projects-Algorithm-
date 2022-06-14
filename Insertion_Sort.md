@@ -1,3 +1,4 @@
+www.patika.dev
 # [22,27,16,2,18,6] -> Insertion Sort
 
 1 - ) Write the stages of the above sequence according to the sort type.
@@ -7,6 +8,8 @@
             Time Complexity: Average case: The number we are looking for is in the middle, Worst case: The number we are looking for is at the end, Best case: The      number we are looking for is at the beginning of the series.
 
 3 - ) What case does the number 18 fall into after the array is sorted? 
+
+4 -) Write the first 4 steps of [7,3,5,8,2,9,4,15.6] according to Insertion Sort.
 
 ## 1 - Answer:
 
@@ -33,5 +36,17 @@
 #### Total Process -> n + (n-1) + (n-2) + ... + 1 = n(n+1)/2 = (n^2+n)/2 
             O((n^2+n)/2) ~ O(n^2)
            
-## 3 -> Answer:
+## 3 - Answer:
 After the array is sorted, since the number 18 is in the middle of the array; It falls under the "Average Case".
+
+## 4 - Answer:
+            [7,3,5,8,2,9,4,15.6] (Quicksilver mode active!)
+
+Steps - Result
+1 - [2,(3,5,8,7,9,4,15.6)]
+2 - [2,3,(5,8,7,9,4,15.6)] 
+3 - [2,3,4,(8,7,9,5,15.6)]
+4 - [2,3,4,5,(7,9,8,15.6)]
+5 - [2,3,4,5,7,(9,8,15.6)]
+6 - [2,3,4,5,7,8,(9,15.6)]
+
