@@ -1,4 +1,3 @@
-www.patika.dev
 # [22,27,16,2,18,6] -> Insertion Sort
 
 1 - ) Write the stages of the above sequence according to the sort type.
@@ -43,10 +42,10 @@ After the array is sorted, since the number 18 is in the middle of the array; It
             [7,3,5,8,2,9,4,15.6] (Quicksilver mode active!)
 
 Steps - Result
-1 - [2,(3,5,8,7,9,4,15.6)]
-2 - [2,3,(5,8,7,9,4,15.6)] 
-3 - [2,3,4,(8,7,9,5,15.6)]
-4 - [2,3,4,5,(7,9,8,15.6)]
-5 - [2,3,4,5,7,(9,8,15.6)]
-6 - [2,3,4,5,7,8,(9,15.6)]
+            1 - [2,(3,5,8,7,9,4,15.6)]
+            2 - [2,3,(5,8,7,9,4,15.6)] 
+            3 - [2,3,4,(8,7,9,5,15.6)]
+            4 - [2,3,4,5,(7,9,8,15.6)]
+            5 - [2,3,4,5,7,(9,8,15.6)]
+            6 - [2,3,4,5,7,8,(9,15.6)]
 
